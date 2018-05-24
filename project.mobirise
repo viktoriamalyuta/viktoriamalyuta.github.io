@@ -35,7 +35,7 @@
         "#44ef61"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/hello-html-1d519caa-128x172.png",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.6",
